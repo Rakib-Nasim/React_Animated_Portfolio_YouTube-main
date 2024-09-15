@@ -1,0 +1,29 @@
+[
+  
+  {
+    "id": 2,
+    "role": "Software Engineer",
+    "organisation": "ADN Diginet",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "location": "Gulshan, Dhaka",
+    "experiences": [
+      "Approval Management System",
+      "Sales Tracker System"
+    ],
+    "imageSrc": "company/ADN_Diginet.png"
+  },
+  {
+    "id": 3,
+    "role": " Junior Software Engineer",
+    "organisation": "PlayOn24",
+    "startDate": "Feb, 2022",
+    "endDate": "Oct, 2023",
+    "location": "Mohammadpur ,Dhaka",
+    "experiences": [
+      "Accounting System",
+      "HRMS System"
+    ],
+    "imageSrc": "company/PlayOn24.png"
+  }
+]
